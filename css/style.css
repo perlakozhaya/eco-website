@@ -67,9 +67,9 @@ label {
 }
 
 /* transparent navbar */
-.home-header {
+/* .home-header {
   position: relative;     
-}
+} */
 .transparent-nav {
   position: absolute;
   z-index: 1;
@@ -89,18 +89,21 @@ label {
   color: #fff;
 }
 
-#about-us {
-  text-align: center;
-  padding-bottom: 75px;
-}
-.column1 h3 {
-  padding-top: 20px;
-}
 .column1 {
-  text-align: center;
-  padding: 30px;
-  margin: 0 40px;
   border-radius: 20px;
   box-shadow: 1px 1px 100px -20px #57b15d;
+  min-height:300px;
 }
 
+.home-icons{
+  height:64px;
+  margin-bottom:10px;
+}
+
+#footer-div{
+  background-color: #19a923;
+}
+#footer-div *{
+  color:#fff;
+  font-size:9pt;
+}
