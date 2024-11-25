@@ -1,1 +1,2 @@
-Project Perla - 2022
+# Eco-Friendly Website Front-End
+This project represents a front-end design for an eco-friendly website that is built using HTML, CSS, and JavaScript with Bootstrap. The focus is on the front-end and the website is not functional in terms of backend logic but is designed to look aesthetically pleasing and provide the necessary layout and structure for an eco-friendly theme. This is a static website that utilizes HTML, CSS, and JavaScript, with Bootstrap as the main framework for layout and responsive design.
